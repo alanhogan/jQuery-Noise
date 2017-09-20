@@ -30,8 +30,6 @@ Authors:
 	
 @alanhogan
 :	"Alan Hogan"
-	- Email
-	:	contact@alanhogan.com
 	- Twitter
 	:	@alanhogan
 	- Web
